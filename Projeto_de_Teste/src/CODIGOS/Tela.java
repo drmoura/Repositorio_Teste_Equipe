@@ -14,5 +14,6 @@ import javax.swing.JOptionPane;
 public class Tela {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,"Olá Mundo ");
+        JOptionPane.showMessageDialog(null,"Olá Mundo 2");
     }
 }
